@@ -12,7 +12,7 @@ UI heavily inspired by: https://dribbble.com/shots/6523216-Music-Player-Applicat
 
 current app version (apk): https://github.com/KarimElghamry/chillify/releases/tag/v1.5
 
-## Current Features
+## Current Features asasas
 [✓] Retrieve all songs
 
 [✓] Pause
